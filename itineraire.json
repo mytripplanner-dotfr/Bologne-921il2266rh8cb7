@@ -1,0 +1,149 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🍝",
+  "titre": "Escapade gourmande et relaxante à Bologne",
+  "budget_total": "~688 €",
+  "duree": "3 jours",
+  "temps_vol": "1h40 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur et premières saveurs",
+      "legende": "Après un vol court, installez-vous confortablement dans la \"ville rouge\". La première journée est dédiée à une immersion douce dans l'atmosphère bolognaise, entre architecture médiévale et délices culinaires. Flânez dans les rues historiques et laissez-vous charmer par l'ambiance unique de la capitale gastronomique italienne. Un rythme léger pour commencer votre séjour.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🛬 Arrivée à Bologne</strong>: Atterrissage à l'aéroport Guglielmo Marconi et transfert vers le centre-ville pour une installation sans stress à votre hôtel.",
+        "<strong>🚶‍♂️ Balade dans le Quadrilatero</strong>: Découvrez le cœur historique et gourmand de Bologne, ses ruelles étroites et ses étals colorés, idéal pour une première immersion sensorielle.",
+        "<strong>🍷 Apéritivo traditionnel</strong>: Profitez d'un moment de détente autour d'un verre de vin local et de quelques antipasti, une tradition bolognaise incontournable pour bien finir la journée."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport aéroport",
+          "texte": "Le Marconi Express relie l'aéroport au centre-ville (gare centrale) en seulement 7 minutes, une option rapide et pratique pour rejoindre votre hébergement."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Entre histoire, panoramas et douceurs",
+      "legende": "Explorez les trésors architecturaux de Bologne, montez pour admirer des vues imprenables et offrez-vous un moment de pure détente culinaire. Cette journée combine découverte culturelle et plaisir des sens, avec un rythme équilibré pour profiter pleinement de chaque instant. Laissez-vous guider par la richesse de la ville.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🏛️ Visite de la Piazza Maggiore</strong>: Admirez la majestueuse place centrale, la Basilique San Petronio et le Palazzo d'Accursio, témoins de la grandeur passée de la ville.",
+        "<strong>⬆️ Ascension de la Tour Asinelli</strong>: Gravissez les marches de l'une des célèbres tours penchées pour une vue panoramique époustouflante sur les toits rouges de Bologne.",
+        "<strong>🍝 Cours de cuisine bolognaise</strong>: Participez à un atelier pour apprendre à préparer des pâtes fraîches comme les tagliatelles ou les tortellini, une expérience immersive et délicieuse et très relaxante."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil culinaire",
+          "texte": "Ne manquez pas de goûter la mortadelle locale et les fromages de la région, des incontournables de la gastronomie bolognaise à savourer sans modération."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Art, verdure et départ serein",
+      "legende": "Avant de quitter Bologne, plongez dans son patrimoine artistique et profitez d'un dernier moment de quiétude au cœur de la nature urbaine. Cette dernière journée permet de savourer les dernières heures avec des activités douces et enrichissantes, avant un départ sans hâte. Une conclusion parfaite pour un séjour mémorable.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🖼️ Visite de la Pinacothèque Nationale</strong>: Découvrez une riche collection d'œuvres d'art bolognaises, du Moyen Âge à la Renaissance, pour une immersion culturelle apaisante.",
+        "<strong>🌳 Promenade aux Giardini Margherita</strong>: Détendez-vous dans le plus grand parc public de Bologne, idéal pour une balade tranquille ou un pique-nique improvisé avant de partir.",
+        "<strong>🛍️ Derniers achats gourmands</strong>: Profitez-en pour acheter des souvenirs comestibles comme du Parmigiano Reggiano ou du vinaigre balsamique, avant de vous diriger vers l'aéroport."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les produits locaux comme les sauces, les pâtes artisanales ou les vins sont d'excellents souvenirs à rapporter de Bologne pour prolonger le plaisir à la maison."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 233 €/pers",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "~30 €/pers (Marconi Express A/R + bus)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "~200 €/pers (3 petits-déj, 3 déj, 3 dîners)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "~125 €/pers (2 nuits en hôtel 3*)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "~100 €/pers (musées, tour, cours de cuisine)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Printemps (avril-mai) et automne (septembre-octobre) pour un climat agréable et moins de foule.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie est l'Euro (€). Les cartes bancaires sont largement acceptées, mais ayez un peu de liquide pour les petits commerces ou marchés.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Bologne est une ville très agréable à explorer à pied. Des bus sont disponibles pour les distances plus longues ou pour rejoindre les Giardini Margherita.",
+      "symbole": "🚶‍♀️"
+    },
+    {
+      "titre": "La prise électrique est de type F (deux broches rondes), comme en France. Aucun adaptateur n'est nécessaire.",
+      "symbole": "🔌"
+    },
+    {
+      "titre": "L'eau du robinet est potable et de bonne qualité partout en ville. N'hésitez pas à remplir votre gourde.",
+      "symbole": "💧"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CDG-BLQ/2026-05-15/2026-05-18",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Bologne",
+      "url": "https://www.bolognawelcome.com/fr/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports",
+      "titre": "Tper (transports publics)",
+      "url": "https://www.tper.it/en",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Italie",
+      "url": "https://www.ilmeteo.it/meteo/Bologna",
+      "symbole": "🌤️"
+    }
+  ]
+}
